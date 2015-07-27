@@ -9,3 +9,12 @@ The Microbe's leave a trail behind them (Toggable via the 'Trail' button) which 
 
 ##Uniqueness
 The design the trails make are also determined by the movement attributes of the Microbe. Each Microbe has a different max velocity and turning force. This makes the drawing they leave behind differ significantly with every new 'sample' of Microbe's.
+
+#How To Draw
+To use the app, click on the 'Create' button and draw a Microbe. You can draw anything, go nuts! Alternatively, you can just click 'Create' and then 'Done' without drawing anything to create an invisible Microbe. This is so you can just see the trails they leave without a big Microbe body in the way. Look at 'Example_3.png' for an example.
+
+##Controls
+![Instructions](https://github.com/badraufran/Microbe-Drawing-Experiment/blob/master/Instructions.png?raw=true)
+
+##Example Output
+![Microbe Drawing](https://github.com/badraufran/Microbe-Drawing-Experiment/blob/master/Example_1.png?raw=true)
